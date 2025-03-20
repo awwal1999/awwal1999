@@ -29,7 +29,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Symfony" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/symfony/symfony-original-wordmark.svg)">
+  <img align="center" alt="Laravel" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg)">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
